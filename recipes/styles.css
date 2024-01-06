@@ -1,0 +1,54 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 20px 20px 40px rgba(0, 0, 0, 0.1);
+    width: 50%;
+  }
+
+
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    background-image:url("https://www.looper.com/img/gallery/the-history-of-spider-mans-pointing-meme-explained/l-intro-1686144123.jpg" );
+    border: 2px Black;
+    padding: 20px;
+    align-items: center;
+
+}
+
+
+h1  {
+    color: #D53917;
+    font-family: Futura;
+    text-align:center;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+h2  {
+    color: #D53917;
+    font-family: Futura;
+    text-align:center;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    border-radius: 5px;
+    background: #0096fa;
+    padding: 10px;
+}
+
+.custom-class   {
+    color: #D53917;
+    font-family: Roboto;
+    text-align:center;
+    margin: 30px;
+    text-shadow: 2px 2px 5px grey;
+    border-radius: 25px;
+    background: #0096fa;
+    padding: 10px;
+}
+
+.custom-class li {
+    font-family: Roboto; 
+    list-style: none; /* Remove default list styles */
+    padding: 15px; /*gave the list some space..*/
+}
+
